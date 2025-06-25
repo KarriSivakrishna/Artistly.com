@@ -1,0 +1,90 @@
+[
+  {
+    "id": 1,
+    "name": "Sarah Johnson",
+    "category": "Singer",
+    "city": "Mumbai",
+    "fee": "₹15,000-25,000",
+    "status": "pending",
+    "submittedAt": "2024-01-15T10:30:00Z",
+    "email": "sarah.johnson@email.com",
+    "phone": "+91 98765 43210"
+  },
+  {
+    "id": 2,
+    "name": "Mike Chen",
+    "category": "DJ",
+    "city": "Bangalore",
+    "fee": "₹20,000-35,000",
+    "status": "approved",
+    "submittedAt": "2024-01-14T14:20:00Z",
+    "email": "mike.chen@email.com",
+    "phone": "+91 87654 32109"
+  },
+  {
+    "id": 3,
+    "name": "Emma Rodriguez",
+    "category": "Dancer",
+    "city": "Delhi",
+    "fee": "₹12,000-20,000",
+    "status": "pending",
+    "submittedAt": "2024-01-13T09:15:00Z",
+    "email": "emma.rodriguez@email.com",
+    "phone": "+91 76543 21098"
+  },
+  {
+    "id": 4,
+    "name": "David Thompson",
+    "category": "Speaker",
+    "city": "Pune",
+    "fee": "₹25,000-50,000",
+    "status": "rejected",
+    "submittedAt": "2024-01-12T16:45:00Z",
+    "email": "david.thompson@email.com",
+    "phone": "+91 65432 10987"
+  },
+  {
+    "id": 5,
+    "name": "Lisa Park",
+    "category": "Singer",
+    "city": "Chennai",
+    "fee": "₹18,000-30,000",
+    "status": "approved",
+    "submittedAt": "2024-01-11T11:30:00Z",
+    "email": "lisa.park@email.com",
+    "phone": "+91 54321 09876"
+  },
+  {
+    "id": 6,
+    "name": "Carlos Martinez",
+    "category": "DJ",
+    "city": "Goa",
+    "fee": "₹15,000-25,000",
+    "status": "pending",
+    "submittedAt": "2024-01-10T13:20:00Z",
+    "email": "carlos.martinez@email.com",
+    "phone": "+91 43210 98765"
+  },
+  {
+    "id": 7,
+    "name": "Jennifer Wu",
+    "category": "Dancer",
+    "city": "Hyderabad",
+    "fee": "₹20,000-32,000",
+    "status": "approved",
+    "submittedAt": "2024-01-09T08:45:00Z",
+    "email": "jennifer.wu@email.com",
+    "phone": "+91 32109 87654"
+  },
+  {
+    "id": 8,
+    "name": "Robert Johnson",
+    "category": "Speaker",
+    "city": "Kolkata",
+    "fee": "₹30,000-60,000",
+    "status": "pending",
+    "submittedAt": "2024-01-08T15:10:00Z",
+    "email": "robert.johnson@email.com",
+    "phone": "+91 21098 76543"
+  }
+]
