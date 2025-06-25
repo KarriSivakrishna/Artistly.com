@@ -68,7 +68,7 @@ export default function ArtistCard({ artist, className = "" }: ArtistCardProps) 
             </div>
           </div>
 
-          <Button className="w-full bg-primary hover:bg-primary/90">View Profile</Button>
+          <Button className="w-full bg-primary hover:bg-primary/90">Ask for Quote</Button>
         </div>
       </CardContent>
     </Card>
